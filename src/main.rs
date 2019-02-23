@@ -1,11 +1,11 @@
 // mod print;
 // mod variables;
 // mod types;
-mod strings;
+mod string;
 
 fn main() {
     // print::run();
     // variables::run();
     // types::run();
-    strings::run();
+    string::run();
 }
